@@ -6,8 +6,8 @@ Hello I'm an enthusiastic learner venturing into the captivating realms of web d
   ## 📫 Get in Touch:
 
   **[LinkedIn]([https://eff.org](https://www.linkedin.com/in/abdul-baten-chowdhury-ba6653102/))**
-
-   **[LinkedIn]([https://eff.org](abdulbatenchy))**
+**[EFF](https://www.linkedin.com/in/abdul-baten-chowdhury-ba6653102/))**
+   **[LinkedIn](https://www.instagram.com/abdulbatenchy)))**
 
   
 - ⚡ Fun fact: ...
