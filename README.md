@@ -6,7 +6,7 @@ Hello I'm an enthusiastic learner venturing into the captivating realms of web d
   ## 📫 Get in Touch:
 
    [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abdul-baten-chowdhury-ba6653102)
-   [![My Skills](https://skillicons.dev/icons?i=instagram)]((https://www.instagram.com/abdulbatenchy)
+   [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/abdulbatenchy)
   
 - ⚡ Fun fact: ...
   ## 💡 In My Toolkit:
