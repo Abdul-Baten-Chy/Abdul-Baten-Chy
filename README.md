@@ -6,17 +6,16 @@ Hello I'm an enthusiastic learner venturing into the captivating realms of web d
   ## 📫 Get in Touch:
 
    [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abdul-baten-chowdhury-ba6653102)
+
+    
    [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/abdulbatenchy)
   
-- ⚡ Fun fact: ...
+
   ## 💡 In My Toolkit:
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,express,mongodb,nodejs,firebase,git,github,ps&perline=4)](https://skillicons.dev)
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=html,css,tailwind,js,react,express,mongodb,nodejs,firebase,git,github,ps&perline=4)" />
-  </a>
-</p>
+  [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,express,mongodb,nodejs,firebase,git,github,ps)](https://skillicons.dev)
+
+
 ## My Contribution Stats:
 
 
