@@ -1,12 +1,13 @@
 ![alt text](https://github.com/Abdul-Baten-Chy/Abdul-Baten-Chy/blob/main/git_banner.jpg?raw=true)
 
-Hello I'm an enthusiastic learner venturing into the captivating realms of web development. Currently in the process of unraveling the mysteries of HTML, CSS, and JavaScript, with a dash of MERN excitement.
-- 🔭 I’m currently working on a project which is  Employee Management Software
-- 🌱 I’m currently learning  Redux Toolkit
+Hello, I'm an enthusiastic learner venturing into the captivating realms of web development. Currently in the process of unraveling the mysteries of HTML, CSS, and JavaScript, with a dash of MERN excitement. I’m currently working on a project which is  Employee Management Software and building a portfolio. In this process I have a action plan to master the art of MERN stack. 
+## Technolgy I am exploring :
+
+![My Skills](https://skillicons.dev/icons?i=nextjs,redux&perline=3)
+
   ## 📫 Get in Touch:
 
-   [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abdul-baten-chowdhury-ba6653102)  
-   [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/abdulbatenchy)
+   [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abdul-baten-chowdhury-ba6653102)   [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/abdulbatenchy)
   
 
   ## 💡 In My Toolkit:
@@ -75,6 +76,8 @@ they are categorise based on their name. If the user click on the category then 
 
 
  ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,express,mongodb,nodejs,firebase)
+
+ ---
 
  
 ### 3) Hotel Management web Application:
