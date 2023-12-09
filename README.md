@@ -5,9 +5,9 @@ Hello I'm an enthusiastic learner venturing into the captivating realms of web d
 - 🌱 I’m currently learning  Redux Toolkit
   ## 📫 Get in Touch:
 
-   **[LinkedIn](https://www.linkedin.com/in/abdul-baten-chowdhury-ba6653102/)))**
+   [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)**[LinkedIn](https://www.linkedin.com/in/abdul-baten-chowdhury-ba6653102/)**
 
-   **[Instagram](https://www.instagram.com/abdulbatenchy)))**
+   [![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)**[Instagram](https://www.instagram.com/abdulbatenchy)**
 
   
 - ⚡ Fun fact: ...
