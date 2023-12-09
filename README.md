@@ -54,7 +54,7 @@ on the website with this email. Admin has the right to make any employee HR mana
  ---
 
  
-### 1) Employee Management system application:
+### 2) Mobile phone retailer web application:
 
 ## Live-Link: https://clientside-10.web.app
 
@@ -71,9 +71,35 @@ they are categorise based on their name. If the user click on the category then 
 
 -- Clicking on the details page user will be shown the details product.
 
+### tecnology I used in this project:
+
 
  ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,express,mongodb,nodejs,firebase)
 
+ 
+### 3) Hotel Management web Application:
+
+## Live-Link: https://magnificent-chimera-3f8608.netlify.app
+
+#### This hotel management software is developed to take orders from the customer. 
+
+-- Customer can register and see the available rooms for booked 
+
+-- They have the option to book the room and after booking the room, this room will not be available for further booking until it becomes available again. 
+
+
+-- user can make reviews for the services. 
+
+-- Room booking information is kept on the server.
+
+-- Clicking on the details page user will be shown the details of the rooms.
+
+### technology I used in this project:
+
+
+ ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,express,mongodb,nodejs,firebase)
+
+ 
 
 
 
