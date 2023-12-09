@@ -27,7 +27,7 @@ Hello I'm an enthusiastic learner venturing into the captivating realms of web d
 
 ## My featured Projects:
 
-### Employee Management system application:
+### 1) Employee Management system application:
 
 ## Live-Link: https://robust-construction-1f942.web.app/
 
@@ -49,8 +49,30 @@ in the admin dashboard, the admin sees all the verified employees including  the
 on the website with this email. Admin has the right to make any employee HR manager.
 ### tecnology I used in this project:
 
- [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,express,mongodb,nodejs,firebase)]
+ ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,express,mongodb,nodejs,firebase)
 
+ ---
+
+ 
+### 1) Employee Management system application:
+
+## Live-Link: https://clientside-10.web.app
+
+#### This website is a retail shop for smartphones, There are six types of brands available here. Brands are as follows Iphone, Walton, Vivo, Samsung, Nokia, Xiaomi.
+they are categorise based on their name. If the user click on the category then those categories' phone will be loaded. The features of the web site is listed below...
+
+-- Verified user can add his product through the add product form and data will be stored in Mongodb server.  
+
+-- User can add to cart products and their cart data is stored in the server. 
+
+-- If user wand to update a product information then he can do so by clicking on the update button. 
+
+-- User can delete a product from his cart as well.
+
+-- Clicking on the details page user will be shown the details product.
+
+
+ ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,express,mongodb,nodejs,firebase)
 
 
 
