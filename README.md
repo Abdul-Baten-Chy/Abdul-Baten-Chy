@@ -11,7 +11,7 @@ Hello I'm an enthusiastic learner venturing into the captivating realms of web d
 - ⚡ Fun fact: ...
   ## 💡 In My Toolkit:
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,express,mongodb,nodejs,firebase,git,github,ps)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,express,mongodb,nodejs,firebase,git,github,ps&perline=4)](https://skillicons.dev)
 
 ## My Contribution Stats:
 
