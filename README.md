@@ -12,7 +12,11 @@ Hello I'm an enthusiastic learner venturing into the captivating realms of web d
   ## 💡 In My Toolkit:
 
   [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,express,mongodb,nodejs,firebase,git,github,ps&perline=4)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=html,css,tailwind,js,react,express,mongodb,nodejs,firebase,git,github,ps&perline=4)" />
+  </a>
+</p>
 ## My Contribution Stats:
 
 
