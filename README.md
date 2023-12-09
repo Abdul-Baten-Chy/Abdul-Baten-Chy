@@ -9,6 +9,13 @@ Hello I'm an enthusiastic learner venturing into the captivating realms of web d
 
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,js,react,express,mongodb,nodejs,firebase,git,github,ps)](https://skillicons.dev)
 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdul-Baten-Chy&theme=rose_pine)
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdul-Baten-Chy&theme=rose_pine)
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdul-Baten-Chy&theme=rose_pine)
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abdul-Baten-Chy&theme=vue-dark&card_width=1280)](https://git.io/streak-stats)
 
 
