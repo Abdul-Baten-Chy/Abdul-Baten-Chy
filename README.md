@@ -38,35 +38,23 @@ The Car Rental Reservation System is a comprehensive web application designed fo
 
  ---
 
- 
-# Food Sharing App
+# TechBlog
 
-Welcome to the Food Sharing App! This project allows users to share available food items and request food from others.
+Welcome to the Tech Blog App! This project allows users to share theire knowledge with  others.
 
 ## Live Demo
 
-Check out the live demo of the app here: https://6685807e2197d555bd54b103--thriving-kitsune-948d31.netlify.app/
+Check out the live demo of the app here: https://frontend-ivory-delta-48.vercel.app
 
 ## Technologies Used
 
-- Node.js
-- Express.js
-- MongoDB
-- React (or any front-end framework/library you used)
-- HTML/CSS
-
-## Features
-
-- **View Available Foods**: Users can browse available food items.
-- **Request Food**: Users can request specific food items.
-- **Toggle Food Availability**: Admins can mark food items as available or unavailable.
-- **CRUD Operations**: Create, Read, Update, Delete operations for food items.
-
-## How to Use
-
-1. **View Available Foods**: Navigate to the home page to see all available food items.
-2. **Request Food**: Use the request feature to request specific food items.
-3. **Admin Functions**: Admins can log in to toggle the availability of food items.
+-React
+-Redux (or Context API)
+-Axios (for API calls)
+-React Router (for routing)
+-Quill.js (or similar for rich text editing)
+-tripe/Aamarpay SDK (for payment integration)
+-React Toastify (for notifications)
 
 ## Screenshots
 
