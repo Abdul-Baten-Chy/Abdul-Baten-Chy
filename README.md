@@ -1,6 +1,6 @@
 ![alt text](https://github.com/Abdul-Baten-Chy/Abdul-Baten-Chy/blob/main/git_banner.jpg?raw=true)
 
-Hello, I'm an enthusiastic learner venturing into the captivating realms of web development. Currently in the process of unraveling the mysteries of HTML, CSS, and JavaScript, with a dash of MERN excitement. I’m currently working on a project which is  Employee Management Software and building a portfolio. In this process I have a action plan to master the art of MERN stack. 
+Hello, I'm an enthusiastic learner venturing into the captivating realms of web development. Currently in the process of unraveling the mysteries of HTML, CSS, and JavaScript, with a dash of MERN excitement. I’m currently working on a project which is  Tech Blog and building a portfolio. In this process I have a action plan to master the art of MERN stack. 
 ## Technolgy I am exploring :
 
 ![My Skills](https://skillicons.dev/icons?i=nextjs,redux&perline=3)
@@ -12,7 +12,7 @@ Hello, I'm an enthusiastic learner venturing into the captivating realms of web 
 
   ## 💡 In My Toolkit:
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,express,mongodb,nodejs,firebase,git,github,ps)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,express,mongodb,nodejs,firebase,git,github,ps)](https://skillicons.dev)
 
 
 ## My Contribution Stats:
@@ -28,29 +28,13 @@ Hello, I'm an enthusiastic learner venturing into the captivating realms of web 
 
 ## My featured Projects:
 
-### 1) Employee Management system application:
+### 1) Car Rental Web application:
 
-## Live-Link: https://robust-construction-1f942.web.app/
-
-This is an employee management system web application that is designed to help manage the employee and their activities properly.
-there are three roles of the user in this app. 
-### Employee: 
-
-The user as an employee can insert their volume of work, Number of hours they worked, and per hour salary. 
-They can see their progress, their payment history, etc
-
-### HR Manager: 
-
-The Hr can see all the employees in a tabular format, make employee status varified or not varified, and can make payments to the employee. Hr manager has also access to the work-in-progress page where all the task submitted by the employee is accumulated. 
-They can see their progress, their payment history, etc
-
-### Admin: 
-
-in the admin dashboard, the admin sees all the verified employees including  the HR manager and he can fire any employee. After being fired the employee can not be signed in anymore
-on the website with this email. Admin has the right to make any employee HR manager.
+## Live-Link: https://cheerful-heliotrope-7de29f.netlify.app
+The Car Rental Reservation System is a comprehensive web application designed for both customers and administrators to manage car rentals efficiently. The frontend provides an intuitive and responsive interface for users to browse, book, and manage car rentals, while the backend handles car inventory, bookings, and user management.
 ### tecnology I used in this project:
 
- ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,express,mongodb,nodejs,firebase)
+ ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,ts,monggose,express,mongodb,nodejs,firebase)
 
  ---
 
