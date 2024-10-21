@@ -18,8 +18,7 @@ My goal is to master the art of the MERN stack and create engaging, full-stack a
 
 ## 📫 Get in Touch:
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abdul-baten-chowdhury-ba6653102)  
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/abdulbatenchy)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abdul-baten-chowdhury-ba6653102)   [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/abdulbatenchy)
 
 ## 💡 In My Toolkit:
 
@@ -46,7 +45,7 @@ The Car Rental Reservation System is a comprehensive web application designed fo
 
 ### Technologies Used:
 
-![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,ts,mongoose,express,mongodb,nodejs,firebase)
+![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,ts,express,mongodb,nodejs,firebase) ![Mongoose](https://upload.wikimedia.org/wikipedia/commons/0/0f/Mongoose_logo.svg)
 
 ---
 
