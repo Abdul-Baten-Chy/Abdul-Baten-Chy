@@ -45,7 +45,7 @@ The Car Rental Reservation System is a comprehensive web application designed fo
 
 ### Technologies Used:
 
-![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,ts,express,mongodb,nodejs,firebase) ![Mongoose](https://upload.wikimedia.org/wikipedia/commons/0/0f/Mongoose_logo.svg)
+![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,ts,express,mongodb,nodejs,firebase) 
 
 ---
 
