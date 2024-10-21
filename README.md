@@ -70,11 +70,28 @@ Welcome to the Tech Blog App! This project allows users to share their knowledge
 - Stripe SDK (for payment integration)
 - React Toastify (for notifications)
 
-### Getting Started
+### 3) Hotel Management web Application:
 
-To run the app locally:
+**Live Demo:** [Check it out!](https://magnificent-chimera-3f8608.netlify.app)  
+**Source Code:**  
+- [Client](https://github.com/Abdul-Baten-Chy/luxury-hotel)  
+- [Server](https://github.com/Abdul-Baten-Chy/luxury-hotel-server)
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/food-sharing-app.git
-   cd food-sharing-app
+#### This hotel management software is developed to take orders from the customer. 
+
+-- Customer can register and see the available rooms for booked 
+
+-- They have the option to book the room and after booking the room, this room will not be available for further booking until it becomes available again. 
+
+
+-- user can make reviews for the services. 
+
+-- Room booking information is kept on the server.
+
+-- Clicking on the details page user will be shown the details of the rooms.
+
+### technology I used in this project:
+
+
+ ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,express,mongodb,nodejs,firebase)
+
